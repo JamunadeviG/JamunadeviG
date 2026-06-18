@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20There,%20I'm%20Jammy%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img align="right" width="280" src="C:\Users\JAMUNADEVI\Downloads\jamPhoto.jpg">
+<img align="right" width="280" src="https://jamuna.netlify.app/jamPhoto.jpg">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A100FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Building+AI-Powered+Solutions;Full+Stack+Developer;Exploring+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
