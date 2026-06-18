@@ -24,14 +24,14 @@
 <tr>
 <td align="center" width="50%">
 
-**💻 Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
-**🎨 Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
 
@@ -40,14 +40,14 @@
 <tr>
 <td align="center" width="50%">
 
-**⚙️ Backend & Database**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
-**🤖 AI / ML**
+**AI / ML**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -70,7 +70,7 @@
 <tr>
 <td width="50%">
 
-### 🧬 BioIntel – Genomic Surveillance System
+### BioIntel – Genomic Surveillance System
 AI-driven TB surveillance system that detects infection, maps DNA mutations, predicts organ spread, and identifies drug resistance with automated workflows.
 
 `Python` `Machine Learning` `BioPython` `TensorFlow`
@@ -78,7 +78,7 @@ AI-driven TB surveillance system that detects infection, maps DNA mutations, pre
 </td>
 <td width="50%">
 
-### 🌱 AgriAI – Precision Guidance for Every Farmer
+### AgriAI – Precision Guidance for Every Farmer
 An AI assistant that predicts crop yield and market prices, and generates personalized crop and pesticide recommendations for farm decision-making.
 
 `React.js` `Machine Learning` `Python` `Data Analytics`
@@ -88,7 +88,7 @@ An AI assistant that predicts crop yield and market prices, and generates person
 <tr>
 <td width="50%" colspan="2" align="center">
 
-### 🎯 Career Guidance System
+### Career Guidance System
 An ML-based career guidance tool that analyzes user strengths and delivers personalized education/career pathways using AI-driven analytics.
 
 `React.js` `Machine Learning` `Python` `Scikit-Learn`
