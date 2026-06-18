@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20There,%20I'm%20Jammy%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="header.svg" width="100%"/>
 
-<img align="right" width="280" src="https://jamuna.netlify.app/jamPhoto.jpg">
+<img align="right" width="280" src="your-image-url">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A100FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Building+AI-Powered+Solutions;Full+Stack+Developer;Exploring+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Building+AI-Powered+Solutions;Full+Stack+Developer;Exploring+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,38 +25,47 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-**Languages**
-<br>
+**💻 Languages**
+
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c&theme=dark" />
 
-**Frontend**
-<br>
+</td>
+<td align="center" width="50%">
+
+**🎨 Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-**Database**
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+**⚙️ Backend & Database**
 
-**AI / ML**
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**🤖 AI / ML**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -66,28 +75,28 @@
 <tr>
 <td width="50%">
 
-### 🌱 AI Agriculture Assistant
-An AI-powered agriculture platform helping farmers with crop prediction, yield analysis, and decision support.
+### 🧬 BioIntel – Genomic Surveillance System
+AI-driven TB surveillance system that detects infection, maps DNA mutations, predicts organ spread, and identifies drug resistance with automated workflows.
 
-`Python` `ML` `React` `Node.js` `MongoDB`
+`Python` `Machine Learning` `BioPython` `TensorFlow`
 
 </td>
 <td width="50%">
 
-### 🎯 Personalized Career Matcher
-A recommendation system helping students discover suitable career paths based on skills, interests, and academic performance.
+### 🌱 AgriAI – Precision Guidance for Every Farmer
+An AI assistant that predicts crop yield and market prices, and generates personalized crop and pesticide recommendations for farm decision-making.
 
-`Machine Learning` `React` `Full Stack`
+`React.js` `Machine Learning` `Python` `Data Analytics`
 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2" align="center">
 
-### 🛒 AgroHub
-An agriculture-focused e-commerce platform connecting farmers with digital marketplaces.
+### 🎯 Career Guidance System
+An ML-based career guidance tool that analyzes user strengths and delivers personalized education/career pathways using AI-driven analytics.
 
-`MERN Stack`
+`React.js` `Machine Learning` `Python` `Scikit-Learn`
 
 </td>
 </tr>
@@ -97,45 +106,18 @@ An agriculture-focused e-commerce platform connecting farmers with digital marke
 
 <br>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-<div align="center">
+## 🏆 Achievements & Recognition
 
-<img src="https://github-readme-stats.vercel.app/api?username=JamunadeviG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JamunadeviG&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamunadeviG&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JamunadeviG&theme=tokyo-night&hide_border=true" width="95%"/>
-
-<img src="https://github-readme-trophy.vercel.app/?username=JamunadeviG&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🏆 Achievements & Activities
-
-- 📄 Research & Paper Presentation in AI-based systems
-- 👨‍💻 Building AI + Human collaboration solutions
-- 🤝 Active contributor in technical communities
-- 🌟 Exploring innovative technology solutions
-
-<br>
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Advanced ML](https://img.shields.io/badge/Advanced%20Machine%20Learning-blueviolet?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-orange?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-blue?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-ff69b4?style=flat-square)
-![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-green?style=flat-square)
-
-</div>
+- 🥇 **1st Place** – BioIntel: Genomic Surveillance System — Paper Presentation, Kongu Engineering College (2026)
+- 🥈 **2nd Place** – AI & Human Collaboration in Agriculture — Paper Presentation, KIT Coimbatore (2025)
+- 🥈 **2nd Place** – HackHub Coding Contest, GCT Coimbatore (2025)
+- 🎖️ Academic Excellence Award — Kongu Engineering College (2024)
+- 🎖️ Best Student Award — Kongu Engineering College (2023)
+- 👩‍💻 Tech Head, AI Association Club
+- 🤝 Executive Member, RRC
+- 📋 Class Representative (2023–2024)
 
 <br>
 
@@ -149,8 +131,14 @@ An agriculture-focused e-commerce platform connecting farmers with digital marke
 <a href="https://github.com/JamunadeviG">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:jamunadevig.2006@example.com">
+<a href="mailto:jamunadevig.2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://jamuna.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/JamunaDevi_2006">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -169,6 +157,6 @@ An agriculture-focused e-commerce platform connecting farmers with digital marke
 
 ⭐ Feel free to explore my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6472,100:1F2937&height=120&section=footer" width="100%"/>
 
 </div>
