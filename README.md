@@ -1,14 +1,4 @@
 <div align="center">
-<img src="header.svg" width="100%"/>
-<img align="right" width="280" src="your-image-url">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Building+AI-Powered+Solutions;Full+Stack+Developer;Exploring+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-</div>
-<br>
-
-<div align="center">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Building+AI-Powered+Solutions;Full+Stack+Developer;Exploring+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
